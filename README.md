@@ -3,7 +3,9 @@
 
 # How to Run the Scripts:
 (1) Run main.py first. This script fetches stock data and executes the backtesting process.
+
 (2) Choose one of the two available visualization options to view your results.
 
-Thank you,
+
+Thank you,<br>
 Mayank
